@@ -1,12 +1,12 @@
 {
   "name": "react-native-set-timer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "setInterval and setTimeout that work even if the app is running in the background",
   "main": "index.js",
   "types": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jimwan/react-native-set-timer"
+    "url": "https://github.com/Wangjing991/react-native-set-timer.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
